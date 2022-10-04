@@ -128,8 +128,8 @@ let package = Package(
         ),
         .package(
             name: "CodeEditTextView",
-            url: "https://github.com/CodeEditApp/CodeEditTextView",
-            branch: "main"
+            url: "file:///Users/nakaokarei/work/dev/CodeEditTextView",
+            branch: "current-line-highlite"
         ),
     ],
     targets: [
